@@ -1,2 +1,2 @@
 # Awesomesquad
-Promoting ourselves for shared housing.
+Promoting ourselves for shared housing, using a one-pager.
