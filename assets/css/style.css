@@ -91,7 +91,7 @@ a:focus {
 #navbar-top { min-height: 51px }
 .navbar-default {
   margin-bottom: 0;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.9);
   border-top: 0;
   -webkit-border-radius: 0;
      -moz-border-radius: 0;
@@ -141,7 +141,7 @@ a:focus {
 #home {
   padding: 0;
   color: #fff;
-  background-image: url(../img/cover/home.jpg);
+  background-image: url(../img/cover/home1.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -220,10 +220,10 @@ a:focus {
   color: #fff;
   background-color: #2a3940;
 }
-#testimonials .item { margin-bottom: 30px }
+#testimonials .item { margin: 25px 0 30px 0 }
 #testimonials .quote {
   padding: 0 90px;
-  font-size: 16px;
+  font-size: 22px;
 }
 #testimonials .quote:before {
   margin-right: 10px;
@@ -232,8 +232,8 @@ a:focus {
 }
 #testimonials .client { color: #ccc }
 #testimonials .carousel-indicators li {
-  width: 9px;
-  height: 9px;
+  width: 12px;
+  height: 12px;
   border-color: #a6a6a6;
   -webkit-border-radius: 2px;
      -moz-border-radius: 2px;
@@ -246,8 +246,8 @@ a:focus {
 #testimonials .carousel-indicators li:hover,
 #testimonials .carousel-indicators li:focus { border-color: #fff }
 #testimonials .carousel-indicators .active {
-  width: 9px;
-  height: 9px;
+  width: 12px;
+  height: 12px;
   margin: 1px;
   background-color: #71be3c;
   border-color: #fff;
@@ -269,7 +269,7 @@ a:focus {
   margin-top: 60px;
   margin-bottom: 60px;
 }
-#about .teammate .bio { padding-top: 10px }
+#about .teammate .bio { padding-top: 10px; font-size: 15px;}
 #about .teammate .profile-photo {
   overflow: hidden
 }
